@@ -1,0 +1,14 @@
+.teachers-page-container {
+  padding: 15px;
+}
+
+.teachers-page-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.teachers-page-header-button {
+  margin-left: auto;
+  color: green;
+}

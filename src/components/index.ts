@@ -1,0 +1,7 @@
+export { default as Loader } from './Loader'
+export { default as Sidebar } from './Sidebar'
+export { default as StudentEvent } from './StudentEvent'
+export { default as StudentsTable } from './StudentsTable'
+export { default as TeacherEvent } from './TeacherEvent'
+export { default as TeachersTable } from './TeachersTable'
+export { default as UsersTable } from './UsersTable'

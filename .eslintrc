@@ -1,0 +1,9 @@
+{
+  "extends": "universe/native",
+  "rules": {
+    "import/order": "off",
+    "curly": "error",
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off"
+  }
+}

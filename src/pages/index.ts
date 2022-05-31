@@ -1,0 +1,8 @@
+export { default as Auth } from './Auth'
+export { default as Home } from './Home'
+export { default as SignUp } from './SignUp'
+export { default as Student } from './Student'
+export { default as Students } from './Students'
+export { default as Teacher } from './Teacher'
+export { default as Teachers } from './Teachers'
+export { default as Users } from './Users'
